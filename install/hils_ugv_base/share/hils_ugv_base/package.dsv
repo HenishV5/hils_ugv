@@ -1,0 +1,9 @@
+source;share/hils_ugv_base/hook/pythonpath.ps1
+source;share/hils_ugv_base/hook/pythonpath.dsv
+source;share/hils_ugv_base/hook/pythonpath.sh
+source;share/hils_ugv_base/hook/ament_prefix_path.ps1
+source;share/hils_ugv_base/hook/ament_prefix_path.dsv
+source;share/hils_ugv_base/hook/ament_prefix_path.sh
+source;../../build/hils_ugv_base/share/hils_ugv_base/hook/pythonpath_develop.ps1
+source;../../build/hils_ugv_base/share/hils_ugv_base/hook/pythonpath_develop.dsv
+source;../../build/hils_ugv_base/share/hils_ugv_base/hook/pythonpath_develop.sh

@@ -1,0 +1,23 @@
+[3.075s] Invoking command in '/home/rex/Desktop/workDrive/hils_ugv/hils_ugv/build/hils_ugv_description': PYTHONPATH=/home/rex/Desktop/workDrive/hils_ugv/hils_ugv/build/hils_ugv_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rex/Desktop/workDrive/hils_ugv/hils_ugv/install/hils_ugv_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/build/hils_ugv_description/build --no-deps symlink_data
+[3.373s] running develop
+[3.567s] running egg_info
+[3.568s] creating hils_ugv_description.egg-info
+[3.568s] writing hils_ugv_description.egg-info/PKG-INFO
+[3.568s] writing dependency_links to hils_ugv_description.egg-info/dependency_links.txt
+[3.568s] writing entry points to hils_ugv_description.egg-info/entry_points.txt
+[3.568s] writing requirements to hils_ugv_description.egg-info/requires.txt
+[3.568s] writing top-level names to hils_ugv_description.egg-info/top_level.txt
+[3.569s] writing manifest file 'hils_ugv_description.egg-info/SOURCES.txt'
+[3.570s] reading manifest file 'hils_ugv_description.egg-info/SOURCES.txt'
+[3.571s] writing manifest file 'hils_ugv_description.egg-info/SOURCES.txt'
+[3.573s] running build_ext
+[3.573s] Creating /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/install/hils_ugv_description/lib/python3.10/site-packages/hils-ugv-description.egg-link (link to .)
+[3.575s] 
+[3.575s] Installed /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/build/hils_ugv_description
+[3.575s] running symlink_data
+[3.575s] creating /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/install/hils_ugv_description/share/ament_index
+[3.576s] creating /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/install/hils_ugv_description/share/ament_index/resource_index
+[3.576s] creating /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/install/hils_ugv_description/share/ament_index/resource_index/packages
+[3.576s] symbolically linking /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/build/hils_ugv_description/resource/hils_ugv_description -> /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/install/hils_ugv_description/share/ament_index/resource_index/packages
+[3.576s] symbolically linking /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/build/hils_ugv_description/package.xml -> /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/install/hils_ugv_description/share/hils_ugv_description
+[3.627s] Invoked command in '/home/rex/Desktop/workDrive/hils_ugv/hils_ugv/build/hils_ugv_description' returned '0': PYTHONPATH=/home/rex/Desktop/workDrive/hils_ugv/hils_ugv/build/hils_ugv_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rex/Desktop/workDrive/hils_ugv/hils_ugv/install/hils_ugv_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/build/hils_ugv_description/build --no-deps symlink_data

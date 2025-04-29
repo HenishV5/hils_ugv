@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating hils_ugv_gazebo.egg-info
+writing hils_ugv_gazebo.egg-info/PKG-INFO
+writing dependency_links to hils_ugv_gazebo.egg-info/dependency_links.txt
+writing entry points to hils_ugv_gazebo.egg-info/entry_points.txt
+writing requirements to hils_ugv_gazebo.egg-info/requires.txt
+writing top-level names to hils_ugv_gazebo.egg-info/top_level.txt
+writing manifest file 'hils_ugv_gazebo.egg-info/SOURCES.txt'
+reading manifest file 'hils_ugv_gazebo.egg-info/SOURCES.txt'
+writing manifest file 'hils_ugv_gazebo.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/install/hils_ugv_gazebo/lib/python3.10/site-packages/hils-ugv-gazebo.egg-link (link to .)
+
+Installed /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/build/hils_ugv_gazebo
+running symlink_data
+creating /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/install/hils_ugv_gazebo/share/ament_index
+creating /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/install/hils_ugv_gazebo/share/ament_index/resource_index
+creating /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/install/hils_ugv_gazebo/share/ament_index/resource_index/packages
+symbolically linking /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/build/hils_ugv_gazebo/resource/hils_ugv_gazebo -> /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/install/hils_ugv_gazebo/share/ament_index/resource_index/packages
+symbolically linking /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/build/hils_ugv_gazebo/package.xml -> /home/rex/Desktop/workDrive/hils_ugv/hils_ugv/install/hils_ugv_gazebo/share/hils_ugv_gazebo

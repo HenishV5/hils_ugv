@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+hils_ugv_description/__init__.py
+hils_ugv_description.egg-info/PKG-INFO
+hils_ugv_description.egg-info/SOURCES.txt
+hils_ugv_description.egg-info/dependency_links.txt
+hils_ugv_description.egg-info/entry_points.txt
+hils_ugv_description.egg-info/requires.txt
+hils_ugv_description.egg-info/top_level.txt
+hils_ugv_description.egg-info/zip-safe
+resource/hils_ugv_description
