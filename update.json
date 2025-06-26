@@ -1,0 +1,14 @@
+{
+    "node": [
+        {
+            "folder_name1":[
+                "ls"
+            ]
+        },
+        {
+            "folder_name2":[
+                "ls"
+            ]
+        }
+    ]
+}
